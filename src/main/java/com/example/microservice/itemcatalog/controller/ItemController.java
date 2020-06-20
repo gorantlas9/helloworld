@@ -23,6 +23,6 @@ public class ItemController {
 
     @GetMapping("/display")
     public String displayMessage(){
-        return "Hello Ajay";
+        return "Hello World";
     }
 }
